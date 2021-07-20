@@ -1,7 +1,12 @@
 # beat
 madcroctony/orangeの三人対戦版（二人対戦も可能）<br>
 神経衰弱のオンラインゲーム<br>
+a～rのアルファベットのカードを2枚ずつ用意し，同じスペルのカードめくった場合，カードを獲得できる<br>
 フレームワークはDjango，サーバはPythonAnywhereを使用<br>
+acount：ユーザー名<br>
+entry：ログインしているユーザーの人数，turn：1の場合，操作できる<br>
+group：ユーザーが対戦しているグループのメンバー<br>
+get：獲得したカードのスペル<br>
 三人で対戦している動画<br>
 
 https://user-images.githubusercontent.com/76951687/126371958-162dd516-ec45-4ac2-8d26-72e464e13299.mp4
