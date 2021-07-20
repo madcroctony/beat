@@ -1,0 +1,132 @@
+{% load static %}
+<!doctype html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <title>{{title}}</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+            crossorigin="anonymous">
+
+    </head>
+
+    <body>
+        <div style="text-align:center">
+            {% if pass %}
+                {% if pass == 'OK' %}
+                    {% if acount %}
+                        {% for name, list in acount.items %}
+                            <h3>acount = {{ name }}</h3>
+                            {% for line in list %}
+                                <div style="display:inline-flex">
+                                    {% for column in line %}
+                                        <input type="submit" name="hit" value="{{ column }}" class="btn btn-primary" style="margin:9px;height:100px;width:80px">
+                                    {% endfor %}
+                                </div>
+
+                            <br>
+                            {% endfor %}
+                        {% endfor %}
+                    {% endif %}
+
+
+                    {% if che %}
+                        {% for name, list in che.items %}
+                            <h3>che = {{ name }}</h3>
+                            {% for line in list %}
+                                <div style="display:inline-flex">
+                                    {% for column in line %}
+                                        <input type="submit" name="hit" value="{{ column }}" class="btn btn-primary" style="margin:9px;height:100px;width:80px">
+                                    {% endfor %}
+                                </div>
+
+                            <br>
+                            {% endfor %}
+                        {% endfor %}
+                    {% endif %}
+                {% endif %}
+
+            {% endif %}
+
+            <script>
+                function doReload()
+                {
+                    window.location.reload();
+                }
+
+                window.addEventListener('load', function ()
+                {
+                    setTimeout(doReload, 2500);
+                });
+            </script>
+
+            {% if message %}
+            <br>
+                message = {{ message }}
+            {% endif %}
+
+
+            {% if before_y %}
+            <br>
+                before_y = {{ before_y }}
+            {% endif %}
+
+            {% if before_x %}
+            <br>
+                before_x = {{ before_x }}
+            {% endif %}
+
+            {% if before %}
+            <br>
+                before = {{ before }}
+            {% endif %}
+
+            {% if word %}
+            <br>
+                word = {{ word }}
+            {% endif %}
+
+            {% if get %}
+            <br>
+                get = {{ get }}
+            {% endif %}
+
+            {% if message %}
+                <br>
+                message = {{ message }}
+            {% endif %}
+
+            {% if wait %}
+                <br>
+                wait = {{ wait }}
+            {% endif %}
+
+            {% if group %}
+                <br>
+                <h3>group = {{ group }}</h3>
+            {% endif %}
+
+            {% if next_player %}
+                <br>
+                <h3>next_player = {{ next_player }}</h3>
+            {% endif %}
+
+            {% if member_num %}
+                <br>
+                <h3>member_num = {{ member_num }}</h3>
+            {% endif %}
+
+            <div style="display:inline-flex">
+                {% if all_get %}
+                    <h2>all_get = </h2>
+                    {% for name, name2 in all_get.items %}
+                        <h2>{{ name }} : {{ name2 }}/</h2>
+                    {% endfor %}
+
+                {% endif %}
+            </div>
+            <br>
+
+        </div>
+    </body>
+
+</html>
