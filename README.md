@@ -18,6 +18,6 @@ https://user-images.githubusercontent.com/76951687/127227560-9de18b24-7f80-4c8e-
 
 複数の同時対戦も可能<br>
 
-https://user-images.githubusercontent.com/76951687/126372271-3ac6e8fc-69a3-41f4-96a3-7a69ab57ae7f.mp4
+https://user-images.githubusercontent.com/76951687/127227717-7282907e-a5b1-4acd-83bc-a8aef8816e12.mov
 
-https://user-images.githubusercontent.com/76951687/126372566-c24c0b11-aedd-48fc-a89d-00b4212ef440.mov
+https://user-images.githubusercontent.com/76951687/127227867-6bbb3b80-0310-4104-962e-529309e92c55.mov
