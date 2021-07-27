@@ -10,11 +10,11 @@ group：ユーザーが対戦しているグループのメンバー<br>
 get：獲得したカードのスペル<br>
 三人で対戦している動画<br>
 
-https://user-images.githubusercontent.com/76951687/126371958-162dd516-ec45-4ac2-8d26-72e464e13299.mp4
+https://user-images.githubusercontent.com/76951687/127227371-603001be-f85f-40d7-b147-0bc23b196d5b.mov
 
-https://user-images.githubusercontent.com/76951687/126372056-d7a49aaa-e178-49e7-bc2b-e3a6862379b0.mov
+https://user-images.githubusercontent.com/76951687/127227466-631ba88f-512b-417b-8025-5211ce215ff8.mov
 
-https://user-images.githubusercontent.com/76951687/126372122-8b32ddc2-3f38-4730-bd41-03215ce3c1d4.mov
+https://user-images.githubusercontent.com/76951687/127227560-9de18b24-7f80-4c8e-9cbc-9f5819a81b7d.mov
 
 複数の同時対戦も可能<br>
 
