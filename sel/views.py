@@ -9,7 +9,7 @@ import time
 class Games:
     def __init__(shelf):
         shelf.H = 6
-        shelf.W = 6
+        shelf.W = 8
 
         shelf.name = ''
         shelf.count = 0
