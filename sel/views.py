@@ -15,7 +15,8 @@ class Games:
         shelf.count = 0
         shelf.turn = 0
         shelf.who = {}
-        shelf.board = 'abcdefghijklmnopqrabcdefghijklmnopqr'
+        spell = 'abcdefghijklmnopqrstuvwx'
+        shelf.board = spell*2
 
         shelf.params = {
         'title':shelf.name,
