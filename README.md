@@ -13,11 +13,11 @@ get：獲得したカードのスペル<br>
 ※二人目がログインした後，1分間ログインがない場合（三人目がログインしない場合）は，二人での対戦となる<br>
 三人で対戦している動画<br>
 
-https://user-images.githubusercontent.com/76951687/127227371-603001be-f85f-40d7-b147-0bc23b196d5b.mov
+https://user-images.githubusercontent.com/76951687/128635535-171e5b2c-6a23-4b65-ab48-950ecec31a8e.mov
 
-https://user-images.githubusercontent.com/76951687/127227466-631ba88f-512b-417b-8025-5211ce215ff8.mov
+https://user-images.githubusercontent.com/76951687/128635549-5cd99cf6-7fff-4c90-9bd3-07edc3149c37.mp4
 
-https://user-images.githubusercontent.com/76951687/127227560-9de18b24-7f80-4c8e-9cbc-9f5819a81b7d.mov
+https://user-images.githubusercontent.com/76951687/128635568-519749a1-f37d-4803-8e8b-a62b2502b6c7.mov
 
 複数の同時対戦も可能<br>
 
