@@ -21,11 +21,11 @@ https://user-images.githubusercontent.com/76951687/128635568-519749a1-f37d-4803-
 
 複数の同時対戦も可能<br>
 
-https://user-images.githubusercontent.com/76951687/127227717-7282907e-a5b1-4acd-83bc-a8aef8816e12.mov
+https://user-images.githubusercontent.com/76951687/128635631-b10bbd5c-277a-41eb-be0f-154f45614a7c.mov
 
-https://user-images.githubusercontent.com/76951687/127228023-d6fb7646-537d-4dd5-9bc4-aa7b3fad5f8c.mov
+https://user-images.githubusercontent.com/76951687/128635664-eb9e029b-33e6-4c90-9c6d-91a708d05399.mp4
 
 別のグループ
 
-https://user-images.githubusercontent.com/76951687/127227867-6bbb3b80-0310-4104-962e-529309e92c55.mov
+https://user-images.githubusercontent.com/76951687/128635687-86183ec6-08bd-4cf5-9e6c-2fd22be7c728.mov
 
